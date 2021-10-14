@@ -1,0 +1,11 @@
+# requirements
+requests==2.26.0
+urllib3==1.26.6
+pysqlite3==0.4.6
+#python-rapidjson==1.4
+python-telegram-bot==13.7
+ujson==1.35
+
+# server
+fastapi==0.68.1
+uvicorn==0.15.0

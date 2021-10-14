@@ -1,0 +1,15 @@
+{
+  "account": {
+    "email": "lyes.fdhfdhdfhfdh@gmail.com",
+    "password": "fhfdhfddhfh"
+  },
+  "telegram": {
+    "token": "",
+    "chat_id": ""
+  },
+  "engine": {
+    "max_bots": 10,
+    "sleep_time_sec": 3,
+    "rate_limit_ms": 200
+  }
+}

@@ -1,1 +1,2 @@
-# TCF-exam-appointment-reservation-bot
+# TCF_bot
+TCF exam reservation bot written in python
