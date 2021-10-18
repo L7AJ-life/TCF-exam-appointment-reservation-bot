@@ -1,4 +1,4 @@
-#/usr/bin/python3
+#!/usr/bin/python3
 
 from tcfbot.controller import Controller
 #from tcfbot.account import AccountList
